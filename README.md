@@ -10,7 +10,7 @@ Git Hub Learning Lab
 #### Trouble Shooting 
 
 ## Documents
-
+Resume attached in profile
 ### Additionl Documentation 
 
 ## Other Important information 
@@ -23,3 +23,4 @@ Git Hub Learning Lab
 Hi, my name is Anusha Rao. I am originally from San Jose, California. 
 I am a student at the University of Iowa. 
 I like to surf, draw, and hang out with my friends! 
+I am currently a Master's student in the U2G program at the University of Iowa studying Business Analytics.
